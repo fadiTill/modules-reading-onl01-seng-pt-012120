@@ -6,9 +6,9 @@ require_relative './fancy_dance.rb'
 #   include FancyDance::InstanceMethods
 #   extend MetaDancing
 #   include Dance
-# 
+#
 #   attr_accessor :name
-# 
+#
 #   def initialize(name)
 #     @name = name
 # end
